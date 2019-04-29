@@ -308,7 +308,7 @@ body {
   font-weight: bold;
 }
 #header {
-  height: 450px;
+  height: 550px;
   position: relative;
   border-bottom: 1px solid #ddd;
 }
@@ -375,12 +375,12 @@ body {
   letter-spacing: 2px;
 }
 #subtitle {
-  font-size: 10px;
-  line-height: 10px;
+  font-size: 16px;
+  line-height: 16px;
   letter-spacing: 1px;
 }
 #subtitle-wrap {
-  margin-top: 10px;
+  margin-top: 16px;
 }
 #main-nav {
   float: left;
